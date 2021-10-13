@@ -1,3 +1,3 @@
 # Deli-Meals-React
-A Food Order Application built using React
-React practice project, it includes core react core features like using refs on input elements, portals, context on complex state management, useEffect
+A Food Order Application.
+A React project that includes core react features like using react portals, refs on input elements, context on complex state management, useEffect etc...
